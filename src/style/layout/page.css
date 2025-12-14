@@ -1,0 +1,9 @@
+#root {
+    display: flex;
+    flex-direction: column;
+}
+
+.page {
+    max-width: 500px;
+    margin: 0 auto 10rem auto;
+}
