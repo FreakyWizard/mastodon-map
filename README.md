@@ -6,7 +6,7 @@ The application looks for posts that follow a certain [markup](#markup), posts r
 ## Context
 
 This project was set up as a Proof of Concept for
-an assignment from [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/) and the [Innovation Department of the Municipality of Amsterdam](www.amsterdam.nl/innovatie/).
+an assignment from [Amsterdam University of Applied Sciences](https://www.amsterdamuas.com/) and the [Innovation Department of the Municipality of Amsterdam](https://www.amsterdam.nl/innovatie/).
 
 ## Features
 
@@ -24,7 +24,6 @@ an assignment from [Amsterdam University of Applied Sciences](https://www.amster
 Posts must have the following markup:
 
 ```text
-
 @accountnameformap@instance.tld {the message to be shown}
 
 [lat={lat} lon={lon} title={title}]

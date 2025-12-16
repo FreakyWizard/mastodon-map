@@ -21,7 +21,7 @@ export function App() {
                 <PostCreateForm />
             </>)}
 
-            <h2>View posts on map</h2>
+            <h2>Posts op kaart bekijken</h2>
 
             <PostsMap />
         </div>
